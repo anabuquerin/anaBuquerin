@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am a product Designer Currently based in Madrid
+My skills in programming include HTML, CSS, JAVASCRIPT AND PHP
 
 <!--
 **anabuquerin/anaBuquerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
