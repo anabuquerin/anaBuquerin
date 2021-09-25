@@ -2,6 +2,11 @@
 I am a product Designer Currently based in Madrid
 My skills in programming include HTML, CSS, JAVASCRIPT AND PHP
 
+here is my CV
+
+[cv_en_anabuquerin_2021.pdf](https://github.com/anabuquerin/anaBuquerin/files/7230391/cv_en_anabuquerin_2021.pdf)
+
+
 <!--
 **anabuquerin/anaBuquerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
