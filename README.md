@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a product Designer Currently based in Madrid
+I am a product Designer Currently based in Madrid,
 My skills in programming include HTML, CSS, JAVASCRIPT AND PHP
 
 here is my CV
