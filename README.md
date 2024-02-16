@@ -1,10 +1,6 @@
-### Hi there 👋
-I am a product Designer Currently based in Madrid,
-My skills in programming include HTML, CSS, JAVASCRIPT AND PHP
 
-here is my CV
+I am a Designer Currently based in Madrid,
 
-[cv_en_anabuquerin_2021.pdf](https://github.com/anabuquerin/anaBuquerin/files/7230391/cv_en_anabuquerin_2021.pdf)
 
 
 <!--
